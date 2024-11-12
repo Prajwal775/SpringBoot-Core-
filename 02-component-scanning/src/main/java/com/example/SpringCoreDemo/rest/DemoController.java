@@ -1,5 +1,6 @@
-package com.example.springcore.SpringCoreDemo;
+package com.example.SpringCoreDemo.rest;
 
+import com.example.SpringCoreDemo.common.Coach;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
