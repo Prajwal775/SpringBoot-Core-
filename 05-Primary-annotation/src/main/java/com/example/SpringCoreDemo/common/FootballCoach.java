@@ -10,8 +10,6 @@ import org.springframework.stereotype.Component;
 
 
 public class FootballCoach implements Coach{
-
-
     @Override
     public String getDailyWorkout() {
         return "Complete circles of the football ground for 5 times";
